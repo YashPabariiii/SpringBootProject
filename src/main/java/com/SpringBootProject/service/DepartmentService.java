@@ -16,5 +16,4 @@ public interface DepartmentService {
 
    public Department updatedept(Long departmentId, Department department);
 
-   Department getdeptbyname(String departmentName);
 }
