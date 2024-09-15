@@ -2,6 +2,7 @@ package com.SpringBootProject.service;
 
 import com.SpringBootProject.entity.Department;
 import com.SpringBootProject.repository.DepartmentRepository;
+import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
